@@ -1,0 +1,21 @@
+.cont22 {
+    width: 1349px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #62D0DF;
+}
+.cont23 {
+    margin: 100px;
+    
+}
+.h11 {
+    padding-bottom: 50px;
+    font-size: 36px;
+    font-family: cursive;
+    color: white;
+}
+.p11 {
+    font-size: 24px;
+    color: white;
+    font-family: cursive;
+}

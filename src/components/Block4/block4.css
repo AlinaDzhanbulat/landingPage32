@@ -1,0 +1,15 @@
+.card4 {
+    width: 340px;
+    height: 340px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 34px;
+    color: white;
+
+}
+.app {
+    display: flex;
+    justify-content: space-between;
+    width: 1349px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,17 @@
+.parent8 {
+    width: 1349px;
+    display: flex;
+}
+.text8 {
+    display: flex;
+    margin: 70px;
+}
+.h38{
+ font-size: 14px;
+ color:  #22356F;
+ margin-bottom: 40px;
+}
+.p8{
+  color: #22356F;
+  font-size: 14px;
+}

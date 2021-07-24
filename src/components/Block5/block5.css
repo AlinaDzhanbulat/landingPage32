@@ -1,0 +1,13 @@
+.card5 {
+    width: 449px;
+    height: 449px;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+.div5 {
+    width: 1349px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

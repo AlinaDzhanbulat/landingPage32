@@ -1,0 +1,32 @@
+.div7 {
+    width: 1349px;
+    display: flex;
+}
+.h47 {
+    margin-left: 150px;
+    margin-top: 100px;
+    font-size: 16px;
+    color: #22356F;
+    font-family: serif;
+
+}
+.divtext7 {
+    width: 700px;
+    margin-left: 150px;
+    margin-top: 200px;
+    color: #22356F;
+    font-size: 36px;
+    font-family: sans-serif;
+}
+.btn7 {
+    margin-left: 200px;
+    border: none;
+    margin-top: 150px;
+    font-size: 16px;
+    color: #FAB63E;
+    background-color: white;
+}
+.b7 {
+    color: aqua;
+    font-family: cursive;
+}
